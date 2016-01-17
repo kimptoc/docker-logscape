@@ -1,5 +1,5 @@
 
-First cut at a Docker file to run the Logscape ( http://logscape.github.io/ ) management console.
+First cut at a Docker file to run the Logscape ( http://www.logscape.com/ /  http://logscape.github.io/ ) management console.
 
 Pre-requisites
 * docker/docker toolbox installed
